@@ -34,8 +34,8 @@ Note: Spectrgram-based approach yielded the best results for this case.
 
 ## Future Developement
 * Experiment with different strategies (augmentation, regularization...) in order to improve the waveform-based approach.
-* Try feature extraction approach
-* Try combined/ensemble methods
+* Try a feature extraction approach
+* Experiment with combined/ensemble methods
 
 ## References and Cool Links
 
